@@ -1,0 +1,46 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+    overflow-y: hidden;
+}
+
+span
+{
+    color: black;
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+
+#voltar
+{
+    font-size: 23px;
+    margin: 20em auto;
+    width: 20%;
+    border-radius: 20px;
+    background-color: rgb(64, 64, 211);
+    color: white;
+}
+
+.heading
+{
+    font-size: 23px;
+    margin: 1em auto;
+    width: 50%;
+    border-radius: 20px;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+    color: white;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#status
+{
+    margin-left: 0px;
+}
